@@ -1,4 +1,4 @@
-# 🎯 Hit-or-Miss-ML
+# 🎯 Hit or Miss: Game Edition
 
 A machine learning project for predicting the commercial success of video games based on features like platform, genre, and review scores. This project compares logistic regression and neural network models to classify whether a game will sell over one million units globally.
 
